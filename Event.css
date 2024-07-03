@@ -12,8 +12,7 @@
   padding: 20 2px;
   word-spacing: normal;
   height: auto;
-   line-height: 1.6;
-  
+  line-height: 1.6;
 }
 .sub1 {
   color: rgb(188, 188, 19);
@@ -30,7 +29,7 @@
   font-size: medium;
   text-indent: 50px;
   padding: 3px;
-   line-height: 1.6;
+  line-height: 1.6;
 }
 .fss a {
   text-decoration: none;
